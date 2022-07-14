@@ -1,14 +1,15 @@
 package chap01.sec03.exam01;
 
 /*
-ÀÛ¼ºÀÚ : orez
-ÀÛ¼ºÀÏ : 2021.12.30
- */
+ï¿½Û¼ï¿½ï¿½ï¿½ : orez
+ï¿½Û¼ï¿½ï¿½ï¿½ : 2021.12.30
+ */ 
+ 
 public class Hello {
 
-	// ÇÁ·Î±×·¥ ½ÇÇà ÁøÀÔÁ¡.
+	// ï¿½ï¿½ï¿½Î±×·ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.
 	public static void main(String[] args) {
-		// ÄÜ¼Ö¿¡ Ãâ·ÂÇÏ´Â ½ÇÇà¹®
+		// ï¿½Ü¼Ö¿ï¿½ ï¿½ï¿½ï¿½ï¿½Ï´ï¿½ ï¿½ï¿½ï¿½à¹®
 		System.out.println("Hello, Java");
 	} // end of main
 } // end of class
